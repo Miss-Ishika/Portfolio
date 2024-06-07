@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Miss-Ishika/Portfolio/static/css/main.74ce37c9.css",
+    "main.js": "/Miss-Ishika/Portfolio/static/js/main.aec75882.js",
+    "static/js/453.ace21015.chunk.js": "/Miss-Ishika/Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/slick.svg": "/Miss-Ishika/Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Miss-Ishika/Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Miss-Ishika/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Miss-Ishika/Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Miss-Ishika/Portfolio/index.html",
+    "static/media/index.cjs": "/Miss-Ishika/Portfolio/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.74ce37c9.css.map": "/Miss-Ishika/Portfolio/static/css/main.74ce37c9.css.map",
+    "main.aec75882.js.map": "/Miss-Ishika/Portfolio/static/js/main.aec75882.js.map",
+    "453.ace21015.chunk.js.map": "/Miss-Ishika/Portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74ce37c9.css",
+    "static/js/main.aec75882.js"
+  ]
+}
