@@ -1,0 +1,46 @@
+.exp-container{
+    margin: 4rem 0;
+    position: relative;
+}
+
+.exp-container h5{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 3rem;
+}
+
+.left-arrow,
+.right-arrow {
+    width: 2.2rem;
+    height: 2.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(165, 90, 231);
+    border-radius: 0.65rem;
+    border: 3px solid rgb(165, 90, 231);
+    background: transparent;
+    position: absolute;
+    top: 55%;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.left-arrow:hover,
+.right-arrow:hover{
+    background-color: rgb(32, 21, 77);
+}
+
+.left-arrow span,
+.right-arrow span {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.left-arrow {
+    left: -2rem;
+}
+
+.right-arrow {
+    right: -2rem;
+}
